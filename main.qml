@@ -20,7 +20,6 @@ ApplicationWindow {
         }
     }
 
-    //メニューバーの設定
     menuBar: MenuBar {
         Menu {
             title: qsTr("File");
